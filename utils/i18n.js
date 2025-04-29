@@ -1,0 +1,36 @@
+const translations = {
+    en: {
+      headerTitle: "Task Manager",
+      menuTasks: "Tasks",
+      menuCompleted: "Completed",
+      menuPending: "Pending",
+      addTask: "Add Task",
+      editTask: "Edit",
+      deleteTask: "Delete",
+      titlePlaceholder: "Title",
+      descriptionPlaceholder: "Description",
+      dueDatePlaceholder: "Due Date",
+      filterAll: "All",
+      filterCompleted: "Completed",
+      filterPending: "Pending",
+      searchPlaceholder: "Search tasks...",
+    },
+    es: {
+      headerTitle: "Administrador de Tareas",
+      menuTasks: "Tareas",
+      menuCompleted: "Completadas",
+      menuPending: "Pendientes",
+      addTask: "Agregar Tarea",
+      editTask: "Editar",
+      deleteTask: "Eliminar",
+      titlePlaceholder: "Título",
+      descriptionPlaceholder: "Descripción",
+      dueDatePlaceholder: "Fecha límite",
+      filterAll: "Todos",
+      filterCompleted: "Completadas",
+      filterPending: "Pendientes",
+      searchPlaceholder: "Buscar tareas...",
+    },
+  };
+  
+  export default translations;
